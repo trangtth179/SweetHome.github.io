@@ -1,0 +1,11 @@
+{
+    "A" : {
+        "value": "A",
+        "content": "test"
+    },
+    "B" : {
+        "value": "B",
+        "content": "none"
+    }
+}
+//Array item trong cart
